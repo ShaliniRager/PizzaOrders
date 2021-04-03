@@ -10,3 +10,8 @@ Size - Subset
 
 b)Array challenge
 Count the number of differences in two strings
+
+c)Abstract Classes
+Given a Book class and a Solution class, write a MyBook class that does the following:
+Inherits from Book
+Has a parameterized constructor taking these  parameters
