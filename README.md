@@ -15,3 +15,7 @@ c)Abstract Classes
 Given a Book class and a Solution class, write a MyBook class that does the following:
 Inherits from Book
 Has a parameterized constructor taking these  parameters
+
+d)Exceptions:
+Read a string, S, and print its integer value ; if S  cannot be converted to an integer, print Bad String
+Cannot use loop/Conditional statements
