@@ -17,5 +17,9 @@ Inherits from Book
 Has a parameterized constructor taking these  parameters
 
 d)Exceptions:
-Read a string, S, and print its integer value ; if S  cannot be converted to an integer, print Bad String
+d1)Read a string, S, and print its integer value ; if S  cannot be converted to an integer, print Bad String
 Cannot use loop/Conditional statements
+
+d2)
+Write a Calculator class with a single method: int power(int,int). The power method takes two integers,n  and p , as parameters and returns the integer result of n to the power p. If either n or p is negative, then the method must throw an exception with the message: n and p should be non-negative.
+Can use loop/conditional
