@@ -23,3 +23,6 @@ Cannot use loop/Conditional statements
 d2)
 Write a Calculator class with a single method: int power(int,int). The power method takes two integers,n  and p , as parameters and returns the integer result of n to the power p. If either n or p is negative, then the method must throw an exception with the message: n and p should be non-negative.
 Can use loop/conditional
+
+e)Inptu a string and have methods using stack and queue toi insert and remove the characters
+print out whether dequeued character and popped char from stack says that it is a palindrome
