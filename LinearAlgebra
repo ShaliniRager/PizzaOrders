@@ -1,0 +1,15 @@
+import numpy as np
+num = int(input())
+n_rows= num
+matrix = [ ]
+for i in range(n_rows):          # A for loop for row entries
+
+    a =[ ]
+
+    b =input()
+    
+    for i in b.split(' '):
+        
+        a.append(float(i))
+    matrix.append(a)
+print(np.linalg.det(matrix))
