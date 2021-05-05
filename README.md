@@ -26,3 +26,7 @@ Can use loop/conditional
 
 e)Inptu a string and have methods using stack and queue toi insert and remove the characters
 print out whether dequeued character and popped char from stack says that it is a palindrome
+f)The NumPy module also comes with a number of built-in routines for linear algebra calculations. These can be found in the sub-module linalg.
+linalg.det
+
+The linalg.det tool computes the determinant of an array.
